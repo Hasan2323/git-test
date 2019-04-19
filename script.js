@@ -1,4 +1,5 @@
-var number = [1,2,3,4,5];
+
+var number = [1,2,3,4,5,6,7];
 
 //function for calculating sum
 function sum(n) {
