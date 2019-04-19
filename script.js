@@ -10,4 +10,7 @@ function sum(n) {
 	return sum;
 }
 
+function sum(){
+}
+
 console.log(sum(number));
